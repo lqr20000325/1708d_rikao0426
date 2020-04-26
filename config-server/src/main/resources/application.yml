@@ -7,7 +7,8 @@ spring:
         git:
           skipSslValidation: true
           #Git仓库，在公司里，配置仓储应该独立，与代码仓库分开
-          uri: https://gitee.com/zhanggm1002/zhanggm-springcloud-demo-1708d.git
+          uri: https://github.com/lqr20000325/1708d_rikao0426.git
+          #uri: https://gitee.com/zhanggm1002/zhanggm-springcloud-demo-1708d.git
           #uri: https://gitee.com/zhanggm1002/springcloud-demo-0325.git
           search-paths:
             - configfiles
